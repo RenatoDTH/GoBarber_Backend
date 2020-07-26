@@ -7,7 +7,7 @@ Para o funcionamento da aplicação é necessário rodar um:
 yarn install
 ``` 
 
-para baixar as dependências do projeto.
+Para baixar as dependências do projeto.
 
 Depois é necessário configurar os o Mongo, Postgres e o Redis e seguir o env.example para que o database funcione de forma apropriada.
 
